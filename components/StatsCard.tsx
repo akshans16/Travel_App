@@ -1,6 +1,6 @@
-import { calculateLegendShapes } from '@syncfusion/ej2-react-charts'
+
 import { calculateTrendPercentage, cn } from 'lib/utils'
-import React from 'react'
+
 
 const StatsCard = ({
     headerTitle,
