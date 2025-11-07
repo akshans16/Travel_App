@@ -14,6 +14,7 @@ declare interface UserData extends BaseUser {
 declare type User = BaseUser;
 
 declare interface Country {
+  flag: any;
   name: string;
   coordinates: [number, number];
   value: string;
